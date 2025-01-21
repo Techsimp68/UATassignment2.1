@@ -1,6 +1,7 @@
 //David Simpson assignment 2.1 attempt 2
 //expected to take roughtly 8 hours
 //took 6 hours out of the 8
+//To add Dark mode took 2 additional hours
 namespace UATassignment2._1._1
 {
     internal static class Program
